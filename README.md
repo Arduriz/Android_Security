@@ -9,7 +9,7 @@ https://github.com/choi92/Android_Security/blob/master/ro.modversion%20detect.ja
 
 ## 구동 모습
 ![image](https://user-images.githubusercontent.com/65582244/132807566-ca3e26e6-f33b-4985-a428-f5678816720c.png) <br>
-![image](https://user-images.githubusercontent.com/65582244/132807577-7e2dcb7c-2841-42d7-b4b4-e81c1fbbe9f0.png) <br>
+![image](https://user-images.githubusercontent.com/65582244/132807577-7e2dcb7c-2841-42d7-b4b4-e81c1fbbe9f0.png)
 ![image](https://user-images.githubusercontent.com/65582244/132807583-eec86cfc-b865-46e6-9d79-7a9fbdbee3fd.png)
 
 ## 안드로이드에 적용
