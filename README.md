@@ -75,12 +75,12 @@ Barnes&Noble社가 2013년 6월 25일 공식발표를 통해 Nook 태블릿의 �
 1. OS업그레이드 <br>
 안드로이드 4.0.3 (Icecream Sandwich)는 수 세대 전의 OS이지만 이투스 수강앱등 대부분의 안드로이드 앱은 현재 안정적인 이용을 위해 안드로이드 버전은 6.0 이상을 권장하고 있다. 따라서 
 안드로이드 7.0 (Nougat) 기반의 커스텀 OS인 Lineage 14.0.0로 업그레이드를 시킨다.
-- SDFormatter로 sd카드 포맷
-- win32diskimager로 sd 카드에 부팅용 이미지(CWM 리커버리)인 emmc-cwm-early3.1.img를 write 하기
-- 그 후 twrp, 롬파일, 구글 앱스를 sd카드에 복사
-- sd카드를 nook에 넣고 리커버리 모드로 진입
-- 포맷, 캐시 삭제 후 twrp, 롬파일, 구글앱스 순으로 설치
-- 캐시 삭제후 sd카드 제거 후 재부팅
+  1. SDFormatter로 sd카드 포맷
+  2. win32diskimager로 sd 카드에 부팅용 이미지(CWM 리커버리)인 emmc-cwm-early3.1.img를 write 하기
+  3. 그 후 twrp, 롬파일, 구글 앱스를 sd카드에 복사
+  4. sd카드를 nook에 넣고 리커버리 모드로 진입
+  5. 포맷, 캐시 삭제 후 twrp, 롬파일, 구글앱스 순으로 설치
+  6. 캐시 삭제후 sd카드 제거 후 재부팅
 
 2. 루팅 <br>
 다른 루팅 프레임워크와 다르게 system 파티션을 건드리지 않는 시스템 리스 방식의 모듈을 사용하여 루트 권한을 관리하는 루팅 프레임워크인 Magisk를 이용하여 루팅을 한다.
