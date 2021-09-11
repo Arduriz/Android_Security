@@ -13,7 +13,7 @@ https://github.com/choi92/Android_Security/blob/master/ro.modversion%20detect.ja
 ![image](https://user-images.githubusercontent.com/65582244/132807583-eec86cfc-b865-46e6-9d79-7a9fbdbee3fd.png)
 
 ## 안드로이드에 적용
-https://github.com/choi92/Android_Security/blob/master/ReadModVersion.jar <br>
+https://github.com/choi92/Android_Security/raw/master/RootFinder_Kobins.apk <br>
 unity를 이용
 
 ___
