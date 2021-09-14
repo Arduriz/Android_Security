@@ -10,7 +10,8 @@ https://github.com/choi92/Android_Security/blob/master/ro.modversion%20detect.ja
 ## 구동 모습
 ![image](https://user-images.githubusercontent.com/65582244/132807566-ca3e26e6-f33b-4985-a428-f5678816720c.png) <br>
 ![image](https://user-images.githubusercontent.com/65582244/132807577-7e2dcb7c-2841-42d7-b4b4-e81c1fbbe9f0.png)
-![image](https://user-images.githubusercontent.com/65582244/132807583-eec86cfc-b865-46e6-9d79-7a9fbdbee3fd.png)
+![image](https://user-images.githubusercontent.com/65582244/132807583-eec86cfc-b865-46e6-9d79-7a9fbdbee3fd.png) <br>
+이 프로그램으로 기기의 system 폴더 안의 build.prop에서 ro.modversion이 써진 라인을 찾아 맨 앞에 #을 붙여#ro.modversion으로 주석 처리하여도 커스텀 펌웨어인지 인식할 수 있도록 하였다.
 
 ## 안드로이드에 적용
 https://github.com/choi92/Android_Security-Unity <br>
